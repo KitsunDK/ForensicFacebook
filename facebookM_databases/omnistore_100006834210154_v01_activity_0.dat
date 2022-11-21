@@ -1,0 +1,37 @@
+2022-11-17 12:37:58 INFO clearing collection messenger_montage_non_user:100006834210154_amahWbY7HDus
+2022-11-17 12:37:58 INFO Client requesting snapshot for collection: messenger_montage_non_user:100006834210154_amahWbY7HDus
+2022-11-17 12:37:58 INFO Running query without snapshot for messenger_montage_non_user:100006834210154_amahWbY7HDus
+2022-11-17 12:37:58 INFO Client sending unsubscribe request for collection: messenger_contacts_android_v2:100006834210154_amahWbY7HDus
+2022-11-17 12:37:58 INFO Connect message: queueName: messenger_montage_v2:100006834210154_amahWbY7HDus, gvid: 8
+2022-11-17 12:37:58 INFO Client sent CreateSubscriptionRequest for queue: messenger_montage_non_user:100006834210154_amahWbY7HDus
+2022-11-17 12:37:58 INFO Client sent connect message
+2022-11-17 12:37:58 INFO Update all subscription only collections to havesnapshot state complete for queue: messenger_montage_non_user:100006834210154_amahWbY7HDus
+2022-11-17 12:37:58 INFO Client sent GetSnapshotRequest for collection: messenger_montage_non_user:100006834210154_amahWbY7HDus
+2022-11-17 12:37:59 INFO Got snapshot http response for "messenger_montage_non_user:100006834210154_amahWbY7HDus" hasPayload: 1 hasError: 0
+2022-11-17 12:38:00 INFO Cursor Update response received queue: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-17 12:38:01 INFO Revision Chunk Received queue: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-17 12:38:01 INFO Mark persisted id=0 queue=messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-17 12:38:28 INFO IntegrityManager::makeIntegrityRequest has constructed the integrity request for collection messenger_montage_v2:100006834210154_amahWbY7HDus. Total 4 objects passed runtime verification, and 0 objects failed.
+2022-11-17 12:38:28 INFO Run integrity check for collection: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-17 12:38:28 INFO SendQueue sending Transactions: QueueDomain=_integrity, QueueTopic=1, clientVersionStart=1, clientVersionEnd=1
+2022-11-17 12:38:28 INFO Mark persisted id=1 queue=_integrity:1
+2022-11-19 00:57:59 INFO Connect message: queueName: messenger_montage_v2:100006834210154_amahWbY7HDus, gvid: 12
+2022-11-19 00:57:59 INFO Connect message: queueName: messenger_montage_non_user:100006834210154_amahWbY7HDus, gvid: 0
+2022-11-19 00:57:59 INFO Client sent connect message
+2022-11-19 00:58:01 INFO Cursor Update response received queue: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-19 00:58:01 INFO Revision Chunk Received queue: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-19 00:58:02 INFO Mark persisted id=0 queue=messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-19 00:58:29 INFO IntegrityManager::makeIntegrityRequest has constructed the integrity request for collection messenger_montage_non_user:100006834210154_amahWbY7HDus. Total 0 objects passed runtime verification, and 0 objects failed.
+2022-11-19 00:58:29 INFO Run integrity check for collection: messenger_montage_non_user:100006834210154_amahWbY7HDus
+2022-11-19 00:58:29 INFO SendQueue sending Transactions: QueueDomain=_integrity, QueueTopic=1, clientVersionStart=2, clientVersionEnd=2
+2022-11-19 00:58:29 INFO Mark persisted id=2 queue=_integrity:1
+2022-11-19 13:07:25 INFO Connect message: queueName: messenger_montage_v2:100006834210154_amahWbY7HDus, gvid: 15
+2022-11-19 13:07:25 INFO Connect message: queueName: messenger_montage_non_user:100006834210154_amahWbY7HDus, gvid: 0
+2022-11-19 13:07:25 INFO Client sent connect message
+2022-11-19 13:07:28 INFO Cursor Update response received queue: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-19 13:07:28 INFO Revision Chunk Received queue: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-19 13:07:28 INFO Mark persisted id=0 queue=messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-19 13:07:55 INFO IntegrityManager::makeIntegrityRequest has constructed the integrity request for collection messenger_montage_v2:100006834210154_amahWbY7HDus. Total 4 objects passed runtime verification, and 0 objects failed.
+2022-11-19 13:07:55 INFO Run integrity check for collection: messenger_montage_v2:100006834210154_amahWbY7HDus
+2022-11-19 13:07:55 INFO SendQueue sending Transactions: QueueDomain=_integrity, QueueTopic=1, clientVersionStart=3, clientVersionEnd=3
+2022-11-19 13:07:56 INFO Mark persisted id=3 queue=_integrity:1

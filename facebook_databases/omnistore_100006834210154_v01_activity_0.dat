@@ -1,0 +1,11 @@
+2022-11-17 12:37:59 INFO Client requesting snapshot for collection: iab_cloaking:afahWbY7HDus
+2022-11-17 12:37:59 INFO Client sent connect message
+2022-11-17 12:38:04 INFO Client requesting snapshot for collection: facebook_universal_prefs_v2:100006834210154
+2022-11-17 12:38:04 INFO Client sent CreateSubscriptionRequest for queue: facebook_universal_prefs_v2:100006834210154
+2022-11-17 12:38:04 INFO Running query without snapshot for facebook_universal_prefs_v2:100006834210154
+2022-11-17 12:38:05 INFO Update all subscription only collections to havesnapshot state complete for queue: facebook_universal_prefs_v2:100006834210154
+2022-11-17 12:38:05 INFO Client sent GetSnapshotRequest for collection: facebook_universal_prefs_v2:100006834210154
+2022-11-17 12:38:05 INFO Got snapshot http response for "facebook_universal_prefs_v2:100006834210154" hasPayload: 1 hasError: 0
+2022-11-17 12:38:13 INFO Event SyncProtocol::onConnectionEstablished rate limited for 15448 ms
+2022-11-17 12:38:29 INFO Connect message: queueName: facebook_universal_prefs_v2:100006834210154, gvid: 0
+2022-11-17 12:38:29 INFO Client sent connect message
